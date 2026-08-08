@@ -1,0 +1,1 @@
+rootProject.name = "youtube-raksrahul-create-fat-jar-in-gradle-shadow-plugin"
